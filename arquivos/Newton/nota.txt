@@ -1,0 +1,4 @@
+Aparentemente, o programa funciona melhor no Firefox!
+Os outros browsers parecem não deixar a imagem na sessão "Polias" ser carregada.
+De qualquer forma, o programa funciona em qualquer outro navegador,
+mas com um erro na parte das polias.
